@@ -1,1 +1,1 @@
-# rsschool-cv
+https://FunnyStori.github.io/rsschool-cv/cv
