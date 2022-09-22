@@ -6,4 +6,19 @@
 * **GitHub:** [FunnyStori](https://github.com/FunnyStori)
 
 ## About Me
-I am 23 years old. My goal i sto gain knowlege in th efield on front-end development.
+I am 23 years old. My goal is to gain knowlege in the field on front-end development.
+
+## Skills
+* HTML&CSS
+* JavaScript
+* Git
+* Figma
+
+## Education
+* **Samara National Research University**
+    * Information System
+        * Bachelor
+
+## Languages
+* **Russian** - native
+* **English** - B2
