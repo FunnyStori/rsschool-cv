@@ -1,1 +1,1 @@
-https://FunnyStori.github.io/rsschool-cv/cv
+https://FunnyStori.github.io/rsschool-cv/
